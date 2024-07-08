@@ -3,7 +3,7 @@
 
 
 @section('content_header')
-    <h1 class="m-0 custom-heading">Editar Detalle</h1>
+    <h1 class="m-0 custom-heading">Editar Proceso Detalle</h1>
 @stop
 @section('css')
     <link rel="stylesheet" href="{{ asset('vendor/jquery-ui-1.13.2/jquery-ui.min.css') }}">
